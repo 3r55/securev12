@@ -15,6 +15,7 @@ const jimp = require("jimp");
 const math = require("math-expression-evaluator");
 const { get } = require("snekfetch");
 const guild = require("guild");
+client.login("Nzk5NjQxNjQ2MDk0MjIxMzUy.YAGiUQ.idwdvfEM4nDL-a2V58mCAqgSCXs")
 
 const dateFormat = require("dateformat");
 var table = require("table").table;
